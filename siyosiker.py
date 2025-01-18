@@ -1,1 +1,1 @@
-print("api durduruldu💀")
+print("api durduruldu💀 by~ @siyonzi")
